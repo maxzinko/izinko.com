@@ -1,65 +1,21 @@
 # izinko.com
 
-A personal portfolio website built with React and Vite.
+personal site of max zinko - developer, broadly speaking.
 
-## Tech Stack
+this is the source for [izinko.com](https://izinko.com). it's a minimal personal site with project writeups and short essays. the previous version of the site is preserved as an easter egg at `/v1/`.
 
-- **React 18** - UI library
-- **Vite** - Build tool and dev server
-- **Tailwind CSS** - Utility-first CSS framework
-- **Lucide React** - Icon library
+## content
 
-## Getting Started
+articles live in `src/content/` as markdown files:
 
-### Prerequisites
+- `src/content/projects/` — things i've built
+- `src/content/things/` — thoughts and essays
 
-- Node.js 18+
-- npm or yarn
+to add a new article, create a `.md` file in the right folder. see `TEXT-FORMAT.md` for the writing guide.
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/izinko.com.git
-cd izinko.com
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-The dev server will start at `http://localhost:5173/`
-
-## Scripts
-
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm run preview` | Preview production build |
-| `npm run lint` | Run ESLint |
-
-## Project Structure
+## running locally
 
 ```
-src/
-├── components/     # React components
-│   ├── Header.jsx
-│   ├── Footer.jsx
-│   ├── Skills.jsx
-│   ├── Work.jsx
-│   ├── Personal.jsx
-│   ├── Modal.jsx
-│   ├── WelcomeCard.jsx
-│   └── ContactCard.jsx
-├── utils/          # Utility functions and hooks
-├── App.jsx         # Main app component
-├── main.jsx        # Entry point
-└── index.css       # Global styles
+bun install
+bun run dev
 ```
-
-## License
-
-MIT
