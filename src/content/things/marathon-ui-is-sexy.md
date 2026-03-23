@@ -4,7 +4,7 @@ date: march 2026
 link: marathonthegame.com | https://marathonthegame.com
 ---
 
-[marathon](https://marathonthegame.com) dropped and the internet immediately split into two camps: people who think the UI is an unreadable mess, and people who get it.
+[marathon](https://marathonthegame.com) dropped and the internet immediately split into two camps: people who think the UI is an {unreadable mess}(https://pbs.twimg.com/media/HCJIa36aAAARNuO?format=jpg&name=4096x4096), and people who get it.
 
 i get it.
 
@@ -12,8 +12,12 @@ the menus are loud. the fonts clash on purpose. the colors hit like someone spil
 
 every other shooter gives you the same clean, safe, focus-tested menus. white text on dark backgrounds. neat little cards. everything readable, everything boring. marathon said no. the UI feels like it belongs to the world - glitchy, alien, not designed for your comfort. it's an interface for cybernetic runners looting a dead colony ship, not a settings page for a productivity app.
 
-the color work is what really gets me. vibrant without being cartoony. saturated but grounded. bungie's art director called it "graphic realism" - a mix of [wipeout](<https://en.wikipedia.org/wiki/Wipeout_(video_game_series)>), [ghost in the shell](https://en.wikipedia.org/wiki/Ghost_in_the_Shell), and whatever happens when your graphic designers actually have taste and a budget.
+the color work is what really gets me. vibrant without being cartoony. saturated but grounded. the kind of palette that makes you stop mid-menu just to look at it. i can't remember the last time a game made me do that.
 
 is some of it hard to read? sure. is it confusing the first 20 minutes? absolutely. but that's what happens when someone takes a real creative risk instead of copying the same UI kit every game has used since 2018.
 
-more games should be this brave with their interfaces. even if it means some people hate it
+more games should be this brave with their interfaces. even if it means some people hate it.
+
+all of that is just from twitch streams. i haven't even played it yet. i want to buy it purely because of how it looks.
+
+this isn't the first time a game's art direction got to me like this. [arc raiders](https://arcraiders.com) hit me the same way - so much that i built the first version of this website in its visual style as a tribute. that v1 is still hiding somewhere on this site as an easter egg, if you know where to look
