@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#f3f0e8"/>
+  <!-- hex bolt head -->
+  <polygon points="16,2 27.1,8.4 27.1,21.2 16,27.6 4.9,21.2 4.9,8.4" fill="#4d7a5c" transform="translate(0 1.2)"/>
+  <!-- hex socket -->
+  <polygon points="16,10.8 20.2,13.2 20.2,18 16,20.4 11.8,18 11.8,13.2" fill="#f3f0e8" transform="translate(0 1.2)"/>
+</svg>
